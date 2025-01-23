@@ -48,6 +48,13 @@ export default async function render({ messages, channel, callbacks, ...options 
       <head>
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="gvrd.tickets.synergycustoms.xyz" />
+        <meta name="twitter:creator" content="@gvrdesire" />
+        <meta name="twitter:title" content="GVRD | Ticket Transcript" />
+        <meta name="twitter:description" content="Explore this and a huge variety of Ticket Transcripts found at Greenville Roleplay Desire. Join Today @ discord.gg/gvrd!" />
+        <meta name="twitter:image" content="https://global.cdn.synergycustoms.xyz/static/gvrd/server/gvrd_logo.png" />
+        <meta name="theme-color" content="#B0D4AC" />
 
         {/* favicon */}
         <link
