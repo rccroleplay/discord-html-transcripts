@@ -1,5 +1,5 @@
 {
-  "name": "discord-html-transcripts",
+  "name": "@gvrdesire/discord-html-transcripts",
   "version": "3.2.0",
   "description": "A nicely formatted html transcript generator for discord.js.",
   "main": "dist/index.js",
@@ -26,7 +26,7 @@
     "discord-transcripts"
   ],
   "author": "Derock <derock@derock.dev>",
-  "license": "GNU GPLv3",
+  "license": "UNLICENSED",
   "files": [
     "dist/**/*.js",
     "dist/**/*.d.ts",
@@ -65,5 +65,12 @@
   },
   "overrides": {
     "react": "$react"
+  },
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "bugs": {
+    "url": "https://github.com/ItzDerock/discord-html-transcripts/issues"
   }
 }
